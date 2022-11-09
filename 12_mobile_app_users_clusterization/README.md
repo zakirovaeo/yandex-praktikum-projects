@@ -6,8 +6,16 @@
 ## Используемые библиотеки и инструменты
 Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy, Tableau
 
-## Данные 
-TODO
+## Данные
+События:
+- идентификатор пользователя
+- название события
+- время события
+
+Источники пользователей
+- идентификатор пользователя
+- источник
+
 
 ## Ссылка на дашборд
 https://public.tableau.com/app/profile/kate4672/viz/final_project_yandex_practicum/sheet2 
