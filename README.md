@@ -2,7 +2,7 @@
 
 
 
-| Проект  | Описание | Используемые библиотеки|
+| Проект  | Описание| Используемые библиотеки|
 | ------------- | ------------- |------------- |
 |[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/1_big_cities_music)  | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) | Pandas|
 | [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/2_borrowers_reliability%20_esearch)  | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  | Pandas|
@@ -13,4 +13,8 @@
 |[Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/7_online_shop_hyphotesis_testing) | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами| Pandas, Matplotlib, SciPy|
 |[Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/8_Moscow_restaurants_research) |Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов | Pandas, Seaborn, Plotly|
 |[Анализ пользовательского поведения в мобильном приложении](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/9_grocery_mobile_app_user_behavior_research) | На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования| Pandas, Matplotlib, Seaborn, Plotly|
-
+|[Создание дашборда по пользовательским событиям для агрегатора
+новостей](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/10_news_dashboard) | Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей| Tableau|
+|[Прогнозирование вероятности оттока пользователей для фитнес-центров](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/11_customer_churn_prediction) | На основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей| Pandas, Scikit-learn, Matplotlib, Seaborn|
+|[Выделение групп пользователей мобильного приложения на основе поведения](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/12_mobile_app_users_clusterization) | Сегментировать пользователей приложения по поведению и выявить какая группа является целевой| Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy|
+|[A/B тестирование рекомендательной системы](https://github.com/zakirovaeo/yandex-praktikum-projects/tree/master/13_recommendation_system_AB_test) | Оценить результаты A/B тестирования изменений, связанных с внедрением улучшенной рекомендательной системы| Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy|
